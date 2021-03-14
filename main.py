@@ -4,7 +4,7 @@
 #     if warunek_na(element):
 #         lista.append("Cos sie dzieje z"element)
 #
-# lista=[]
+# lista=["Cos sie dzieje z " element for element in zakres if warunek_na(element)]
 
 # lista_a=[]
 # for i in range(10):
