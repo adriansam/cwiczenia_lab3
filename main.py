@@ -62,6 +62,7 @@
 # odwrocone = {value: key for key, value in slownik.items()}
 # print(odwrocone)
 
+# import math
 # def funkcja_kwadratowa(a, b, c):
 #     delta = b**2 - 4 * a * c
 #     if delta < 0:
@@ -116,11 +117,9 @@
 #
 # to_lubie(slodycze='czekolada', rozrywka=['gry','filmy'])
 
-from teksty import *
-
-a='Ala ma kota'
-
-litery.wyswietl(a)
-print(litery.dlugosc(a))
-
-
+# from teksty import *
+#
+# a='Ala ma kota'
+#
+# litery.wyswietl(a)
+# print(litery.dlugosc(a))
